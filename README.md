@@ -1,6 +1,6 @@
 # SICCiPy - Simple Internet Connection Checker
 
-[Dishant Rathi](https://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant) 
+[Dishant Rathi](http://www.dishantrathi.tk)  [@techiedishant](https://www.twitter.com/techiedishant) 
 
 A Simple Internet Connection Checker in python, wiz. used to check that, the machine on which the script is running has an Internet Connection or Not.
 
@@ -37,7 +37,7 @@ Explain "HOW" and "WHAT" these lines of code do ?
 
 This code works on HTTP Response code {Default : 200}{May Change}, as shown in the image below the Response Code for [Google](https://www.google.com) is 200.
 
-![Response Code](url)
+![Response Code](https://raw.githubusercontent.com/dishantrathi/SICCiPy/master/images/response-code.gif)
 
 Now if the response code is matched then it will show "Internet Enabled" else will pass and thows an exception "No Internet Connection : Check Your Lan | WiFi | Modem | Router Connections For More".
 
