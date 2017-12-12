@@ -49,4 +49,4 @@ Fork this repo and use in your block of code to check internet connection before
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dishantrathi/SICCiPy/blob/master/LICENSE) file for details
