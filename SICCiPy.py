@@ -4,7 +4,7 @@ import requests
 class CheckConnection:
     def CheckConnection(self):
         try :
-            internetEnable = requests.get('https://www.dishantrathi.tk') #My Website -- #use google.com as default
+            internetEnable = requests.get('https://www.google.com') #Website -- #use google.com as default
             iE = internetEnable.status_code
             if iE == 200: #Response Status Code [May Differ]
                 print("Internet Enabled")
